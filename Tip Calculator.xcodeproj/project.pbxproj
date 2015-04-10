@@ -15,6 +15,7 @@
 		1726BB3E1AD77A2800234F1A /* Tip_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1726BB3D1AD77A2800234F1A /* Tip_CalculatorTests.swift */; };
 		1726BB481AD77AB300234F1A /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1726BB471AD77AB300234F1A /* SettingsViewController.swift */; };
 		1726BB4A1AD7994E00234F1A /* RandomColorDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1726BB491AD7994E00234F1A /* RandomColorDelegate.swift */; };
+		1726BB4C1AD7A83600234F1A /* calc.png in Resources */ = {isa = PBXBuildFile; fileRef = 1726BB4B1AD7A83600234F1A /* calc.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		1726BB3D1AD77A2800234F1A /* Tip_CalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculatorTests.swift; sourceTree = "<group>"; };
 		1726BB471AD77AB300234F1A /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		1726BB491AD7994E00234F1A /* RandomColorDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RandomColorDelegate.swift; path = ../RandomColorDelegate.swift; sourceTree = "<group>"; };
+		1726BB4B1AD7A83600234F1A /* calc.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calc.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				1726BB241AD77A2700234F1A /* Tip Calculator */,
 				1726BB3A1AD77A2800234F1A /* Tip CalculatorTests */,
 				1726BB231AD77A2700234F1A /* Products */,
+				1726BB4B1AD7A83600234F1A /* calc.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -200,6 +203,7 @@
 			files = (
 				1726BB2D1AD77A2700234F1A /* Main.storyboard in Resources */,
 				1726BB321AD77A2700234F1A /* LaunchScreen.xib in Resources */,
+				1726BB4C1AD7A83600234F1A /* calc.png in Resources */,
 				1726BB2F1AD77A2700234F1A /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

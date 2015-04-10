@@ -12,20 +12,24 @@
 	<dict>
 		<key>474215059595E5AE795B3137B78838A835ED1E53</key>
 		<string>https://github.com/jaldujaili/37-signals.git</string>
+		<key>89D9AE43B8AC62A48DBAE292FC662260A7F5CF1D</key>
+		<string>https://github.com/jaldujaili/tip-calculator.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Tip Calculator/Tip Calculator.xcodeproj</string>
+	<string>Tip Calculator.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>474215059595E5AE795B3137B78838A835ED1E53</key>
 		<string>../../..</string>
+		<key>89D9AE43B8AC62A48DBAE292FC662260A7F5CF1D</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/jaldujaili/37-signals.git</string>
+	<string>https://github.com/jaldujaili/tip-calculator.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>474215059595E5AE795B3137B78838A835ED1E53</string>
+	<string>89D9AE43B8AC62A48DBAE292FC662260A7F5CF1D</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>474215059595E5AE795B3137B78838A835ED1E53</string>
 			<key>IDESourceControlWCCName</key>
-			<string>repos</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>89D9AE43B8AC62A48DBAE292FC662260A7F5CF1D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tip-calculator</string>
 		</dict>
 	</array>
 </dict>
