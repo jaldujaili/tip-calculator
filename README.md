@@ -12,4 +12,5 @@
   <li> hide second uiView when tapped gestured out </li>
   
   
-![alt tag](http://url/to/calculator.gif)
+  <h4>Gif</h4>
+![alt tag](https://raw.githubusercontent.com/jaldujaili/tip-calculator/master/calculator.gif)
